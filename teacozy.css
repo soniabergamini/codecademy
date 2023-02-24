@@ -34,7 +34,7 @@ main {
 }
 
 #mission {
-    background: url(../Immagini/img-mission-background.jpg) no-repeat;
+    background: url(img-mission-background.jpg) no-repeat;
     background-size: cover;
     height: 700px;
     width: 1200px;
@@ -90,7 +90,7 @@ h2, h4, h1, h5 {
     height: 500px;
     text-align: center;
     padding-top: 60px;
-    background: url(../Immagini/img-locations-background.jpg) no-repeat;
+    background: url(Immagini/img-locations-background.jpg) no-repeat;
     background-position: center;
     margin-top: 50px;
     display: flex;
